@@ -1,0 +1,2 @@
+# smartmodel.ng
+ public developer
